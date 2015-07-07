@@ -19,9 +19,9 @@ public class Battleships extends GameGrid {
 	private final static int MAX_KOORD = 9;
 	private static int xKoord;
 	private static int yKoord;
-	private static Scanner scan = new Scanner(System.in);
+	private static Scanner scan = new Scanner(System.in); 
 	
-	
+
 	
 	public static void main(String args[]){
 		System.out.println("Das Speil beginnt\n");
